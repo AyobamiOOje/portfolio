@@ -53,7 +53,7 @@ Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting 
   <tbody>
     <tr>
       <td>📧</td>
-      <td><a href="mailto:ayobamio.oje@gmail.com">anietieetuk@gmail.com</a></td>
+      <td><a href="mailto:ayobamio.oje@gmail.com">ayobamio.oje@gmail.com</a></td>
     </tr>
     <tr>
       <td>📞</td>
