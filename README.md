@@ -1,13 +1,13 @@
 <!--Section 1: Introduce your self-->
 ## ABOUT ME
 
-Hello! I'm Ayobami Oje 🤓, a data analyst, educator, and consultant with a passion for turning data into actionable insights. With experience across sales, operations, finance, and customer service, I help businesses solve challenges and unlock growth.
+Hello! I'm Ayobami Oje 🤓, a data analyst, educator, and engineer and consultant with a passion for turning data into actionable insights. With experience across sales, operations, finance, and customer service, I help businesses solve challenges and unlock growth.
 
 
 <!--Mention your top/relevant skills here - core and soft skills-->
 ## WHAT I DO
 
-*As the Chief Analyst of SkillAhead Solutions Ltd, I provide consulting and training services for businesses and mentor aspiring analysts.*
+*As the Chief Analyst of the_DataVersewithAY, I provide consulting and training services for businesses and mentor aspiring analysts.*
 
 **- ✅ Data Analytics Consulting.**
 I provide in-depth analysis and tailored solutions to help you make data-driven decisions, optimize processes, and drive business growth. 
@@ -53,11 +53,11 @@ Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting 
   <tbody>
     <tr>
       <td>📧</td>
-      <td><a href="mailto:anietieetuk@gmail.com">anietieetuk@gmail.com</a></td>
+      <td><a href="mailto:ayobamio.oje@gmail.com">anietieetuk@gmail.com</a></td>
     </tr>
     <tr>
       <td>📞</td>
-      <td>(234) 816-763-7212</td>
+      <td>(234) 817-859-6789</td>
     </tr>
     <tr>
       <td>📍</td>
