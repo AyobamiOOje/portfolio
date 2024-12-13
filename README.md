@@ -29,11 +29,11 @@ blinkit stores is a buisness venture with many supermarket and groceries outlets
 
 [Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
 
-**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
+**HR attriction analysis .**
 
-![image](2 anietie etuk data analytics sales project.jpg)
+![image](TDV hr attrition.PNG)
 
-On April 15, 1912, during her maiden voyage, the widely considered “unsinkable” RMS Titanic sank after colliding with an iceberg. 
+This is a performance analysis of employees at XYZ company. 
 
 [Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
 
