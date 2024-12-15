@@ -37,6 +37,14 @@ This is a movie analysis of The Movie Database.
 
 [Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-de/)
 
+**The Healthcare Data Analysis .**
+
+![image](Best-Hospital-pics.jpg)
+
+This is a healthcare analysis of the 3MTT cohort2 capstone project. 
+
+[Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-de/)
+
 **HR attriction analysis .**
 
 ![image](TDV hr attrition.PNG)
