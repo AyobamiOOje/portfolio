@@ -29,6 +29,14 @@ blinkit stores is a buisness venture with many supermarket and groceries outlets
 
 [Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
 
+**The Movie Database (TMDB) Analysis .**
+
+![image](tmdb_movies.jpg)
+
+This is a movie analysis of The Movie Databasw. 
+
+[Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-de/)
+
 **HR attriction analysis .**
 
 ![image](TDV hr attrition.PNG)
