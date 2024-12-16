@@ -1,95 +1,251 @@
-<!--Section 1: Introduce your self-->
-## ABOUT ME
 
-Hello! I'm Ayobami Oje 🤓, a data analyst, educator, and engineer and consultant with a passion for turning data into actionable insights. With experience across sales, operations, finance, and customer service, I help businesses solve challenges and unlock growth.
+<!DOCTYPE HTML>
+<!--
+	Massively by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Jachimma_Christian_Portfolio</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-preload">
+
+		<!-- Wrapper -->
+			<div id="wrapper" class="fade-in">
+
+				<!-- Intro -->
+					<div id="intro">
+						<h1>Jachimma Christian <br />
+							Data Analyst Portfolio</h1>
+						<p> Skills and Technologies: SQL, Python & PowerBI <a href="https://www.linkedin.com/in/jachimma-christian-34b190170/">@Linkedln</a>  <a href="https://github.com/JachimmaChristian">@GitHub</a><br />
+						
+						<ul class="actions">
+							<li><a href="#header" class="button icon solid solo fa-arrow-down scrolly">Continue</a></li>
+						</ul>
+					</div>
+
+				<!-- Header -->
+					<header id="header">
+						<a class="logo">Projects</a>
+					</header>
+
+				<!-- Nav -->
+					<nav id="nav">
+						<ul class="links">
+							<li class="active"><a>Christian Jachimma Christian Portfolio</a></li>
+							<!--<li><a href="generic.html">Generic Page</a></li>
+							<li><a href="elements.html">Elements Reference</a></li>-->
+						</ul>
+						<ul class="icons">
+							<li><a href="https://twitter.com/_Jachris" class="icon brands alt fa-twitter"><span class="label">Twitter</span></a></li>
+									<li><a href="https://www.linkedin.com/in/jachimma-christian-34b190170/" class="icon brands alt fa-linkedin"><span class="label">linkedin</span></a></li>
+									<!--<li><a href="#" class="icon brands alt fa-instagram"><span class="label">Instagram</span></a></li>-->
+									<li><a href="https://github.com/JachimmaChristian" class="icon brands alt fa-github"><span class="label">GitHub</span></a></li>
+								</ul>
+					</nav>
+
+				<!-- Main -->
+					<div id="main">
+
+						<!-- Featured Post -->
+							<article class="post featured">
+								<header class="major">
+									
+									<h2>Climate Change and Impacts in Africa [Python]<br />
+									</h2
+									<p>Analyzed the state of climate change in Africa. This project highlights the growing concern of climate change in Africa and emphasizes the need for regional and international efforts to reduce CO2 emissions and mitigate its impact on temperature and other environmental factors. <br />
+									<br />	
+								<!amet nullam sed etiam veroeros.</p>
+								</header>
+								<a class="image main"><img src="images/climatechangeimage.jpg" alt="" /></a>
+								<ul class="actions special">
+									<li><a href="https://github.com/JachimmaChristian/Climate-change-and-impacts-in-Africa/blob/main/workspace/workspace/notebook.ipynb" class="button large">View Project</a></li>
+								</ul>
+							</article>
+
+						<!-- Posts -->
+							<section class="posts">
+								<article>
+									<header>
+										<!--<span class="date">April 24, 2017</span>-->
+										<h2>Product Sales Analysis [Python]
+											<br />
+											 </h2>
+									</header>
+									<a class="image fit"><img src="images/product sales image.png" alt="" /></a>
+									<p>Analyzed sales data to determine the most effective sales approach for a newly launched product line </p>
+									<ul class="actions special">
+										<li><a href="https://github.com/JachimmaChristian/Product-Sales-Analysis-with-Python/blob/main/README.md" class="button">View Project</a></li>
+									</ul>
+								</article>
+								<article>
+									<header>
+										<!--<span class="date">April 22, 2017</span>-->
+										<h2>Video Game Analysis [Postgresql] <br />
+											</h2>
+									</header>
+									<a class="image fit"><img src="images/video_game.jpg" alt="" /></a>
+									<p>In this project, I explored the top 400 best-selling video games created between 1977 and 2020 to determine whether video games have improved as the gaming market has grown. </p>
+									<ul class="actions special">
+										<li><a href="https://github.com/JachimmaChristian/Video-Game-Analysis-using-Postgresql/blob/main/Video%20games%20analysis%20SQL.ipynb" class="button">View Project</a></li>
+									</ul>
+								</article>
+								<article>
+									<header>
+										<!--<span class="date">April 18, 2017</span>-->
+										<h2>Analyzing Healthcare Data [PowerBI]<br />
+										</h2>
+									</header>
+									<a class="image fit"><img src="images/healthcare(los page).png" alt="" /></a>
+									<p>In this PowerBI Case study, I explored a real-world dataset to uncover hospital efficiency insights, I analyzed attributes impacting the patient's length of stay (LOS) and cost and worked to identify factors contributing to hospital differences.</p>
+									<ul class="actions special">
+										<li><a href="https://github.com/JachimmaChristian/Analyzing-Healthcare-Data-in-PowerBI/blob/main/README.md" class="button">view project</a></li>
+									</ul>
+								</article>
+								<article>
+									<header>
+										<!--<span class="date">April 14, 2017</span>-->
+										<h2>Supply Chain Analytics Model [PowerBI]<br />
+											</a></h2>
+									</header>
+									<a class="image fit"><img src="images/supplychain3.png" alt="" /></a>
+									<p>In this case study, I created a Make vs Buy analysis tool to calculate costs and analyze production volumes </p>
+									<ul class="actions special">
+										<li><a href="https://github.com/JachimmaChristian/Supply-Chain-Analytics-Model-in-PowerBI/blob/main/README.md" class="button">View Project</a></li>
+									</ul>
+								</article>
+								<article>
+									<header>
+										<!--<span class="date">April 11, 2017</span>-->
+										<h2>Data Cleaning and visualization <br />
+										In Excel</h2>
+									</header>
+									<a class="image fit"><img src="images/bike.jpg" alt="" /></a>
+									<p>Explored bike sales data in Microsoft Excel, performed data cleaning, created pivot tables and visualised the data to communicate insights.</p>
+									<ul class="actions special">
+										<li><a href="https://1drv.ms/x/s!AuekbXziIL5_kT2Pj7ibVOUcdYfy?e=kHEq1R" class="button">View Project</a></li>
+									</ul>
+								</article>
+								<article>
+									<header>
+										<!--<span class="date">April 7, 2017</span>-->
+										<h2>Data Mining: Web Scrapping Projects [Python] <br />
+											</h2>
+									</header>
+									<a class="image fit"><img src="images/Webscrap.jpg" alt="" /></a>
+									<p>This is a repository of my web scraping projects. From scraping a cryptocurrency website to scrapping Wikipedia data.</p>
+									<ul class="actions special">
+										<li><a href="https://github.com/JachimmaChristian/Web_Scrapping_With_Python/blob/main/README.md" class="button">View Project</a></li>
+									</ul>
+								</article>
+								<article>
+									<header>
+										<!--<span class="date">April 7, 2017</span>-->
+										<h2>Food Claims Analysis [PowerBI] <br />
+											</h2>
+									</header>
+									<a class="image fit"><img src="images/histogram_time_to_close.png" alt="" /></a>
+									<p>Analysed data for the legal team of a fictitious fast-food chain in Brazil with over 200 outlets, to provide insights to the legal team on how to improve how long it takes to reply to customers and close claims. </p>
+									<ul class="actions special">
+										<li><a href="https://github.com/JachimmaChristian/Food-Claims-Analysis-With-PowerBI/blob/main/workspace/notebook.ipynb" class="button">View Project</a></li>
+									</ul>
+								</article>
+								<article>
+									<header>
+										<!--<span class="date">April 7, 2017</span>-->
+										<h2>Data Cleaning in Microsoft SQL Server [SQL] <br />
+											</h2>
+									</header>
+									<a class="image fit"><img src="images/HousingImage.jpg" alt="" /></a>
+									<p>Transformed raw data in Microsoft SQL Server Management  Studio (SSMS) to make it more usable for analysis.</p>
+									<ul class="actions special">
+										<li><a href="https://github.com/JachimmaChristian/PortfolioProjects/blob/main/NashvilleHousingData.sql" class="button">View Project</a></li>
+									</ul>
+								</article>
+								<article>
+									<header>
+										<!--<span class="date">April 7, 2017</span>-->
+										<h2>COVID-19 Data Exploration In Microsoft SQL Server [SQL] <br />
+											</h2>
+									</header>
+									<a class="image fit"><img src="images/Covid19.jpg" alt="" /></a>
+									<p> Explored global COVID-19 data using Microsoft SQL Server Management Studio (SSMS) </p>
+									<ul class="actions special">
+										<li><a href="https://github.com/JachimmaChristian/PortfolioProjects/blob/main/Covid%2019%20Portfolio%20Project1%20-%20Christian%20Jachimma%20C..sql" class="button">View Project</a></li>
+									</ul>
+								</article>
+							</section>
 
 
-<!--Mention your top/relevant skills here - core and soft skills-->
-## WHAT I DO
+				<!-- Footer -->
+					<!--<footer id="footer">
+						<section>
+							<form method="post" action="#">
+								<div class="fields">
+									<div class="field">
+										<label for="name">Name</label>
+										<input type="text" name="name" id="name" />
+									</div>
+									<div class="field">
+										<label for="email">Email</label>
+										<input type="text" name="email" id="email" />
+									</div>
+									<div class="field">
+										<label for="message">Message</label>
+										<textarea name="message" id="message" rows="3"></textarea>
+									</div>
+								</div>
+								<ul class="actions">
+									<li><input type="submit" value="Send Message" /></li>
+								</ul>
+							</form> -->
+						</section>
+						<section class="split contact">
+							<section class="alt">
+								<h3>Location</h3>
+								<p>Remote<br />
+								</p>
+							</section>
+							<section>
+								<h3>Phone</h3>
+								<p>(+234) 810-499-2985</p>
+							</section>
+							<section>
+								<h3>Email</h3>
+								<p>christianjachimmachristian@gmail.com</p>
+							</section>
+							<section>
+								<h3>Social</h3>
+								<ul class="icons alt">
+									<li><a href="https://twitter.com/_Jachris" class="icon brands alt fa-twitter"><span class="label">Twitter</span></a></li>
+									<li><a href="https://www.linkedin.com/in/jachimma-christian-34b190170/" class="icon brands alt fa-linkedin"><span class="label">linkedin</span></a></li>
+									<!--<li><a href="#" class="icon brands alt fa-instagram"><span class="label">Instagram</span></a></li>-->
+									<li><a href="https://github.com/JachimmaChristian" class="icon brands alt fa-github"><span class="label">GitHub</span></a></li>
+								</ul>
+							</section>
+						</section>
+					</footer>
 
-*As the Chief Analyst of the_DataVersewithAY, I provide consulting and training services for businesses and mentor aspiring analysts.*
+				<!-- Copyright -->
+					<div id="copyright">
+						<ul><li>&copy; Untitled</li><li>Design: <a href="https://html5up.net">HTML5 UP</a></li></ul>
+					</div>
 
-**- ✅ Data Analytics Consulting.**
-I provide in-depth analysis and tailored solutions to help you make data-driven decisions, optimize processes, and drive business growth. 
+			</div>
 
-**- ✅ Staff Training & Development.**
-I offer comprehensive training programs in data analysis, visualization, and data-driven decision-making. From beginner to advanced levels. 
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
 
-
-<!--Section 2: List 3-4 key projects-->
-## MY PORTFOLIO 
-
-*A glimpse of some of the projects I've been working on.*
-
-**Sales data analysis of for blinkit stores.**
-![image](Dashboard.png)
-
-blinkit stores is a buisness venture with many supermarket and groceries outlets.
-
-
-[Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
-
-**The Movie Database (TMDB) Analysis .**
-
-![image](tmdb_movies.jpg)
-
-This is a movie analysis of The Movie Database. 
-
-[Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-de/)
-
-**The Healthcare Data Analysis .**
-
-![image](Best-Hospital-pics.jpg)
-
-This is a healthcare analysis of the 3MTT cohort2 capstone project. 
-
-[Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-de/)
-
-**HR attriction analysis .**
-
-![image](TDV hr attrition.PNG)
-
-This is a performance analysis of employees at XYZ company. 
-
-[Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
-
-**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
-
-![image](3 anietie etuk data analytics agro project.jpg)
-
-Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting in the death of 1502 out of 2224 passengers and crew. 
-
-<a href="17 How to Present Data to Executives by Anietie Etuk.pdf">Download the Report here (pdf file)</a>
-
-
-## CONTACT DETAILS
-
-*Let’s connect and see how we can make a difference together!*
-<table>
-  <tbody>
-    <tr>
-      <td>📧</td>
-      <td><a href="mailto:ayobamio.oje@gmail.com">ayobamio.oje@gmail.com</a></td>
-    </tr>
-    <tr>
-      <td>📞</td>
-      <td>(234) 817-859-6789</td>
-    </tr>
-    <tr>
-      <td>📍</td>
-      <td>Lagos, Nigeria</td>
-    </tr>
-    <tr>
-      <td>⬇️</td>
-      <td><a href="https://docs.google.com/document/d/11TlgPj6O1fFqwOL-RT4iGzke9IuW5E5vbqANcoVG9Ig/edit?usp=sharing">Download my CV</a></td>
-    </tr>
-    <tr>
-      <td>🌐</td>
-      <td><a href="https://linkedin.com/in/ayobami-oje">The things I do daily on LinkedIn</a></td>
-    </tr>
-    <tr>
-      <td>📺</td>
-      <td><a href="https://www.youtube.com/@theDataVersewithAY">Watch my tutorials on YouTube</a></td>
-    </tr>
-  </tbody>
-</table>
+	</body>
+</html>
