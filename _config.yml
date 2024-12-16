@@ -1,3 +1,9 @@
 title: Ayobami .O. Oje
 logo : 1683730236447.jpg
 theme : jekyll-theme-minimal
+
+dark_mode:
+  enabled: true # Set this to true to enable dark mode support
+  toggle_position: "top-right" # Position of the toggle button: top-right, top-left, etc.
+  default: "light" # Default mode: light or dark
+  auto_detect: true # Automatically detect user's system preference
