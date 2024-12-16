@@ -14,26 +14,21 @@
 		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
 	</head>
 	<body class="is-preload">
-
 		<!-- Wrapper -->
 			<div id="wrapper" class="fade-in">
-
 				<!-- Intro -->
 					<div id="intro">
 						<h1>Jachimma Christian <br />
 							Data Analyst Portfolio</h1>
 						<p> Skills and Technologies: SQL, Python & PowerBI <a href="https://www.linkedin.com/in/jachimma-christian-34b190170/">@Linkedln</a>  <a href="https://github.com/JachimmaChristian">@GitHub</a><br />
-						
 						<ul class="actions">
 							<li><a href="#header" class="button icon solid solo fa-arrow-down scrolly">Continue</a></li>
 						</ul>
 					</div>
-
 				<!-- Header -->
 					<header id="header">
 						<a class="logo">Projects</a>
 					</header>
-
 				<!-- Nav -->
 					<nav id="nav">
 						<ul class="links">
@@ -48,14 +43,11 @@
 									<li><a href="https://github.com/JachimmaChristian" class="icon brands alt fa-github"><span class="label">GitHub</span></a></li>
 								</ul>
 					</nav>
-
 				<!-- Main -->
 					<div id="main">
-
 						<!-- Featured Post -->
 							<article class="post featured">
-								<header class="major">
-									
+								<header class="major">		
 									<h2>Climate Change and Impacts in Africa [Python]<br />
 									</h2
 									<p>Analyzed the state of climate change in Africa. This project highlights the growing concern of climate change in Africa and emphasizes the need for regional and international efforts to reduce CO2 emissions and mitigate its impact on temperature and other environmental factors. <br />
@@ -67,7 +59,6 @@
 									<li><a href="https://github.com/JachimmaChristian/Climate-change-and-impacts-in-Africa/blob/main/workspace/workspace/notebook.ipynb" class="button large">View Project</a></li>
 								</ul>
 							</article>
-
 						<!-- Posts -->
 							<section class="posts">
 								<article>
@@ -180,8 +171,6 @@
 									</ul>
 								</article>
 							</section>
-
-
 				<!-- Footer -->
 					<!--<footer id="footer">
 						<section>
@@ -230,14 +219,11 @@
 							</section>
 						</section>
 					</footer>
-
 				<!-- Copyright -->
 					<div id="copyright">
 						<ul><li>&copy; Untitled</li><li>Design: <a href="https://html5up.net">HTML5 UP</a></li></ul>
 					</div>
-
 			</div>
-
 		<!-- Scripts -->
 			<script src="assets/js/jquery.min.js"></script>
 			<script src="assets/js/jquery.scrollex.min.js"></script>
