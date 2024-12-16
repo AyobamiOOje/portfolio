@@ -37,6 +37,14 @@ This is a movie analysis of The Movie Database.
 
 [Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-de/)
 
+**US Presidential ELections Analysis .**
+
+![image]US Presidential Election Project/US_elections.PNG)
+
+This analysis of the US presidential elections shows the votes accross states. 
+
+[Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-de/)
+
 **The Healthcare Data Analysis .**
 
 ![image](Best-Hospital-pics.jpg)
