@@ -39,7 +39,7 @@ This is a movie analysis of The Movie Database.
 
 **US Presidential ELections Analysis .**
 
-![image]US Presidential Election Project/US_elections.PNG)
+![image](US Presidential Election Project/US_elections.PNG)
 
 This analysis of the US presidential elections shows the votes accross states. 
 
