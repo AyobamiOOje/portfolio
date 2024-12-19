@@ -27,7 +27,7 @@ I offer comprehensive training programs in data analysis, visualization, and dat
 blinkit stores is a buisness venture with many supermarket and groceries outlets.
 
 
-[Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
+[Read More](https://www.linkdin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
 
 **The Movie Database (TMDB) Analysis .**
 
@@ -35,7 +35,7 @@ blinkit stores is a buisness venture with many supermarket and groceries outlets
 
 This is a movie analysis of The Movie Database. 
 
-[Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-de/)
+[Read More](https://www.linkdin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-de/)
 
 **US Presidential ELections Analysis .**
 
@@ -43,7 +43,7 @@ This is a movie analysis of The Movie Database.
 
 This analysis of the US presidential elections shows the votes accross states. 
 
-[Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-de/)
+[Read More](https://www.linkdin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-de/)
 
 **The Healthcare Data Analysis .**
 
@@ -51,7 +51,7 @@ This analysis of the US presidential elections shows the votes accross states.
 
 This is a healthcare analysis of the 3MTT cohort2 capstone project. 
 
-[Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-de/)
+[Read More](https://www.linkdin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-de/)
 
 **HR attriction analysis .**
 
@@ -59,7 +59,7 @@ This is a healthcare analysis of the 3MTT cohort2 capstone project.
 
 This is a performance analysis of employees at XYZ company. 
 
-[Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
+[Read More](https://www.linkdin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
 
 **Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
 
