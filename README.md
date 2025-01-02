@@ -35,7 +35,7 @@ blinkit stores is a buisness venture with many supermarket and groceries outlets
 
 This is a movie analysis of The Movie Database. 
 
-[Read More](https://www.linkdin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-de/)
+[Read More](https://github.com/AyobamiOOje/TMDB_movie.analysis/blob/main/README.md)
 
 **US Presidential ELections Analysis .**
 
