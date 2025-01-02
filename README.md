@@ -51,7 +51,7 @@ This analysis of the US presidential elections shows the votes accross states.
 
 This is a healthcare analysis of the 3MTT cohort2 capstone project. 
 
-[Read More](https://www.linkdin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-de/)
+[Read More](https://github.com/AyobamiOOje/health_care_analysis-3MTT-C2-/tree/main))
 
 **HR attriction analysis .**
 
@@ -61,7 +61,7 @@ This is a performance analysis of employees at XYZ company.
 
 [Read More](https://www.linkdin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
 
-**IMachine Learning classification of Iris flower.**
+**Machine Learning classification of Iris flower.**
 
 ![image](Three-species-of-IRIS-flower.png)
 
