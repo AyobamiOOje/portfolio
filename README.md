@@ -51,7 +51,7 @@ This analysis of the US presidential elections shows the votes accross states.
 
 This is a healthcare analysis of the 3MTT cohort2 capstone project. 
 
-[Read More](https://github.com/AyobamiOOje/health_care_analysis-3MTT-C2-/tree/main))
+[Read More](https://github.com/AyobamiOOje/health_care_analysis-3MTT-C2-/tree/main)
 
 **HR attriction analysis .**
 
