@@ -63,7 +63,7 @@ This is a performance analysis of employees at XYZ company.
 
 **Machine Learning classification of Iris flower.**
 
-![image](Three-species-of-IRIS-flower.png)
+![image](Iris-Flower.jpg)
 
 This project is a ML model that classifies Iris flower based on physical properties
 
