@@ -61,13 +61,13 @@ This is a performance analysis of employees at XYZ company.
 
 [Read More](https://www.linkdin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
 
-**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
+**IMachine Learning classification of Iris flower.**
 
-![image](3 anietie etuk data analytics agro project.jpg)
+![image](Three-species-of-IRIS-flower.png)
 
-Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting in the death of 1502 out of 2224 passengers and crew. 
+This project is a ML model that classifies Iris flower based on physical properties
 
-<a href="17 How to Present Data to Executives by Anietie Etuk.pdf">Download the Report here (pdf file)</a>
+[Read More](https://www.linkdin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-de/)
 
 
 ## CONTACT DETAILS
