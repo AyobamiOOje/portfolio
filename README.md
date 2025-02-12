@@ -77,6 +77,14 @@ This project is analysis crime data across Europe, showing crimes across time an
 
 [Read More](https://github.com/AyobamiOOje/Crime_data-Analysis)
 
+**Problems and Challenges associated with Data Career.**
+
+![image](DNHC.PNG)
+
+This project is an analysis of the challenges and opportunities associated with a data career
+
+[Read More](https://github.com/AyobamiOOje/Data_career-Analysis)
+
 ## CONTACT DETAILS
 
 *Let’s connect and see how we can make a difference together!*
