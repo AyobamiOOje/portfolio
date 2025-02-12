@@ -69,6 +69,13 @@ This project is a ML model that classifies Iris flower based on physical propert
 
 [Read More](https://www.linkdin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-de/)
 
+**Crime Analysis Across Europe.**
+
+![image](Crime-db.PNG)
+
+This project is analysis crime data across Europe, showing crimes across time and days
+
+[Read More](https://github.com/AyobamiOOje/Crime_data-Analysis)
 
 ## CONTACT DETAILS
 
