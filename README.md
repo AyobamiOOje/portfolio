@@ -71,7 +71,7 @@ This project is a ML model that classifies Iris flower based on physical propert
 
 **Crime Analysis Across Europe.**
 
-![image](Crime-db.PNG)
+![image](Crime_data-Analysis/Crime-db.PNG)
 
 This project is analysis crime data across Europe, showing crimes across time and days
 
