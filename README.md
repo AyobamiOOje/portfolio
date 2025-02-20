@@ -64,7 +64,7 @@ This is a healthcare analysis of the 3MTT cohort2 capstone project.
 
 **HR attriction analysis .**
 
-![image](TDV hr attrition.PNG)
+![image](TDV_hr_attrition.PNG)
 
 This is a performance analysis of employees at XYZ company. 
 
