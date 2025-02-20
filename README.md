@@ -22,6 +22,14 @@ I offer comprehensive training programs in data analysis, visualization, and dat
 
 *A glimpse of some of the projects I've been working on.*
 
+**Crime Analysis Across Europe.**
+
+![image](Crime-db.PNG)
+
+This project is analysis crime data across Europe, showing crimes across time and days
+
+[Read More](https://github.com/AyobamiOOje/Crime_data-Analysis)
+
 **Sales data analysis of for blinkit stores.**
 ![image](Dashboard.png)
 
@@ -70,13 +78,14 @@ This project is a ML model that classifies Iris flower based on physical propert
 
 [Read More](https://www.linkdin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-de/)
 
-**Crime Analysis Across Europe.**
+**Financial Analysis with PowerBI dataset.**
 
-![image](Crime-db.PNG)
+![image](Financial-dashboard.PNG)
 
-This project is analysis crime data across Europe, showing crimes across time and days
+This project is an analysis of the powerbi sample finance dataset.
 
-[Read More](https://github.com/AyobamiOOje/Crime_data-Analysis)
+[Read More](https://github.com/AyobamiOOje/)
+
 
 **Problems and Challenges associated with Data Career.**
 
